@@ -21,8 +21,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Create Domain Controller and Client Virtual Machine
 - Install Active Directory
-- Step 3
-- Step 4
+- Create Admins and Employee Users
+- Connect Client-1 to Domain via DNS
 
 <h2>Deployment and Configuration Steps</h2>
 
